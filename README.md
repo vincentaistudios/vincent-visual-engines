@@ -39,7 +39,7 @@ Simulação de nebulosa orbital com:
 - Interação gravitacional: mova o mouse sobre a nebulosa
 
 <p align="center">
-  <img src="./docs/images/cosmic-halo.png" width="80%" alt="Cosmic Halo 3D WebGL" />
+  <video src="./docs/images/cosmic-halo.mp4" width="80%" autoplay loop muted playsinline></video>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Simulação física de freio a disco de alta performance:
 - Clique no canvas para acionar a frenagem hidráulica
 
 <p align="center">
-  <img src="./docs/images/disc-pbr.png" width="80%" alt="Dr. Auto Parts Brake Sim 3D" />
+  <video src="./docs/images/disc-pbr.mp4" width="80%" autoplay loop muted playsinline></video>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Portal 3D de pagamentos via Pix com:
 - Dados fictícios — apenas demonstração visual
 
 <p align="center">
-  <img src="./docs/images/pix-gateway.png" width="70%" alt="Pix Gateway 3D" />
+  <video src="./docs/images/pix-gateway.mp4" width="70%" autoplay loop muted playsinline></video>
 </p>
 
 ---
