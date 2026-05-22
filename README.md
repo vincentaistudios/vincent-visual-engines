@@ -55,8 +55,7 @@ Simulação física de freio a disco de alta performance:
 - Clique no canvas para acionar a frenagem hidráulica
 
 <p align="center">
-  <img src="./docs/images/disc-pbr.png" width="45%" alt="Brake Disk PBR" />
-  <img src="./docs/images/thermal-glow.png" width="45%" alt="Thermal Glow" />
+  <img src="./docs/images/disc-pbr.png" width="80%" alt="Dr. Auto Parts Brake Sim 3D" />
 </p>
 
 ---
