@@ -38,6 +38,11 @@ Simulação de nebulosa orbital com:
 - **Núcleo de estrela** com glow Fresnel em tempo real
 - Interação gravitacional: mova o mouse sobre a nebulosa
 
+<p align="center">
+  <img src="./docs/images/cosmic-halo-1.png" width="45%" alt="Cosmic Halo 1" />
+  <img src="./docs/images/cosmic-halo-2.png" width="45%" alt="Cosmic Halo 2" />
+</p>
+
 ---
 
 ## 🔧 Dr. Auto Parts Brake Sim
@@ -50,6 +55,11 @@ Simulação física de freio a disco de alta performance:
 - **HUD de telemetria**: RPM, PSI, temperatura e status em tempo real
 - Clique no canvas para acionar a frenagem hidráulica
 
+<p align="center">
+  <img src="./docs/images/disc-pbr.png" width="45%" alt="Brake Disk PBR" />
+  <img src="./docs/images/thermal-glow.png" width="45%" alt="Thermal Glow" />
+</p>
+
 ---
 
 ## 💸 Vincent MP Pix Gateway
@@ -61,6 +71,10 @@ Portal 3D de pagamentos via Pix com:
 - **Explosão de partículas** ao simular um pagamento
 - **HUD de telemetria** com histórico de liquidações e latência da API
 - Dados fictícios — apenas demonstração visual
+
+<p align="center">
+  <img src="./docs/images/pix-gateway.png" width="70%" alt="Pix Gateway 3D" />
+</p>
 
 ---
 
