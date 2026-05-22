@@ -39,8 +39,7 @@ Simulação de nebulosa orbital com:
 - Interação gravitacional: mova o mouse sobre a nebulosa
 
 <p align="center">
-  <img src="./docs/images/cosmic-halo-1.png" width="45%" alt="Cosmic Halo 1" />
-  <img src="./docs/images/cosmic-halo-2.png" width="45%" alt="Cosmic Halo 2" />
+  <img src="./docs/images/cosmic-halo.png" width="80%" alt="Cosmic Halo 3D WebGL" />
 </p>
 
 ---
